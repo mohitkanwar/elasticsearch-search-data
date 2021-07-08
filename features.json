@@ -1,0 +1,24 @@
+{
+	"features": [
+    {
+      "name": "Accounts",
+      "description": "This feature allows the customer to view and manage his accounts",
+      "tags": ["accounts", "savings", "deposit account", "account number"]
+	  },
+    {
+      "name": "Contacts",
+      "description": "This feature allows the customer to view and manage his beneficieries and other contacts",
+      "tags": ["contacts", "beneficiery", "friends", "colleague"]
+	  },
+    {
+      "name": "Contact Us",
+      "description": "This feature allows the customer to reach out to the customer care of the bank",
+      "tags": ["contact us", "service request", "problem", "solution"]
+	  },
+    {
+      "name": "Loans",
+      "description": "This feature allows the customer to procure a new loan",
+      "tags": ["loan", "offers", "money"]
+	  }
+   ]
+}
